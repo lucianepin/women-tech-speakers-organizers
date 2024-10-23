@@ -1569,6 +1569,12 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
 - Location - Lviv, Ukraine (will travel nationally & internationally)
 - Languages besides English - Ukrainian, Russian
 
+#### Lu Pinheiro
+ - Linkedin: https://www.linkedin.com/in/lu-pinheiro/
+ - Topics: Cloud computing, SAP on the Cloud, InfraModerization, Tech Storytelling
+ - Location: London, UK
+ - Languages: Portuguese (native), English (native), Spanish (buz proficiency)
+
 #### Adi Polak
 
 - [@adipolak](https://twitter.com/adipolak)
